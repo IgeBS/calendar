@@ -180,6 +180,4 @@ class Calendar {
   }
 }
 
-const calendar = new Calendar({
-  container: document.querySelector("#section--1 .slider.container"),
-});
+const calendar = new Calendar();
